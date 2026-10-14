@@ -1,0 +1,25 @@
+{
+  "format": "midi_piano_hands/hand_settings",
+  "version": 1,
+  "settings": {
+    "use_hands": true,
+    "split_note": 60,
+    "finger_spread": 25.0,
+    "hand_half_life": 0.02799999713897705,
+    "press_half_life": 0.01600000075995922,
+    "release_half_life": 0.04005000367760658,
+    "arc_height": 2.0,
+    "press_depth": 0.07699999958276749,
+    "black_forward": 0.1640000343322754,
+    "wrist_strength": 2.0,
+    "wrist_noise": 0.4099999964237213,
+    "max_wrist_dip": 0.20200002193450928,
+    "extra_reach_dip": 0.3140000104904175,
+    "fingertip_pad_auto": true,
+    "fingertip_pad": 0.10000000149011612,
+    "home_delay": 0.6326000094413757,
+    "touch_depth_white": 0.33181822299957275,
+    "touch_depth_black": 0.4192521870136261,
+    "restore_on_stop": true
+  }
+}

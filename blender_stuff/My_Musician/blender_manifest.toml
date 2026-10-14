@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "my_musician"
+version = "2.1.0"
+name = "My Musician"
+tagline = "Instrument rigs played from MIDI: piano with hands, guitar strings"
+maintainer = "Sam-Scohmann"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+tags = ["Animation", "Rigging"]
+
+[permissions]
+files = "Read/write MIDI, audio, presets and guitar data files; install mido into the user modules folder"

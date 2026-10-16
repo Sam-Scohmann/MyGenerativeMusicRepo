@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# debug output from tools/harvest_glyphs.py and tools/survey.py --overlays
+tools/clusters/
+# image-editor leftovers
+*.kra
+*~
